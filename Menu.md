@@ -1,25 +1,8 @@
-# KU Cafe Menu
-
-
-## Breakfast
-
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
-
-## Lunch 
-
-
-## Dinner
-
-
-## Night Food
-
-
-## Beverages
-
-
-
----
-
-We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
+## Indian food
+| Menu | Price|
+| ---- | ---- |
+| Dosa - โดซ่า | 35 |
+| Chicken Tikka Masala - แกงไก่ทิกก้ามาซาล่า | 50 |
+| Thali - อาหารอินเดียแบบถาด | 60 |
+| Pani puri - ปานี ปูริ | 5 |
+| Papri Chaat - ปาปรี จาฏ | 45 |
