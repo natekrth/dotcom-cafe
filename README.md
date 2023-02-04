@@ -78,6 +78,8 @@
 
 ## About Us
 
+| Name      | Role      | Github          |
+|:----------|-----------|-----------------|
 | Kawintida Pinthong | Thai Food | [@Formula-Translation](https://github.com/Formula-Translation) |
 | Zion Keretho | American Food | [@natekrth](https://github.com/natekrth) |
 | Pinpimarn | Japanese Food | [@pinpimarn](https://github.com/pinpimarn) |
