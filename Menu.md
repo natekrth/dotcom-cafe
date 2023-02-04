@@ -1,13 +1,19 @@
 # KU Cafe Menu
 
 
-## Breakfast
+## Italian Food
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Menu             | Price |
+|:-----------------|-------|
+| Frittata         | 240   |
+| Tiramisu         | 165   |
+| The Minestrone   | 350   |
+| Cornetti         | 220   |
+| Fette biscottate | 120   |
+| Fiorentina       | 275   |
 
-## Lunch 
+
+## Lunch
 
 
 ## Dinner
