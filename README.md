@@ -1,8 +1,38 @@
 # DotCom Cafe
 
- [ChineseFood](#Chinese-Food) | [AboutUs](#About-us) 
+[American Food](#American-Food) | [Japanese-Food](#Japanese-Food) |[thai Food](#thai-Food) |  [ChineseFood](#Chinese-Food)
 
- 
+[AboutUs](#About-us)
+
+## American Food
+
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Burgers                  | 90       |
+| Apple Pie                | 50       |
+| French Fries             | 65       |
+| Pizza                    | 200      |
+| Hot Dogs                 | 20       |
+| Grilled Cheese           | 55       |
+
+## Japanese Food
+
+| Menu           | Price |
+|:----------------|-------|
+| Dragon Roll    | 130   |
+| Sashimi Spring | 350   |
+| Saru Ramen     | 175   |
+
+## thai Food
+
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Khoawpad khaidao         | 80       |
+| tomyam kung              | 60       |
+| prakung                  | 70       |
+| kanomjeen nam ya         | 130      |
+| padkrapao                | 120      |
+
 ## Chinese Food
 
 | Menu | Price |
@@ -12,14 +42,15 @@
 | Xiao Long Bao | 80 |
 | Peking Duck | 800 |
 | Barbecued Sucking pig | 1000 |
-| Simmered Chicken | 200
+| Simmered Chicken | 200 |
 
 
 ## About Us
 
-
 | Name      | Role      | Github          |
-|-----------|-----------|-----------------|
-| Pariyakorn Kammarangkura|Chinese Food | @beambyp |
-
+|:----------|-----------|-----------------|
+| Kawintida Pinthong | Thai Food | [@Formula-Translation](https://github.com/Formula-Translation) |
+| Zion Keretho | American Food | [@natekrth](https://github.com/natekrth) |
+| Pinpimarn | Japanese Food | [@pinpimarn](https://github.com/pinpimarn) |
+| Pariyakorn Kammarangkura|Chinese Food | [@beambyp](https://github.com/beambyp)|
 
