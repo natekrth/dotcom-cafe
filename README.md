@@ -1,8 +1,8 @@
 # DotCom Cafe
 
-[American Food](#American-Food) | Section2 | Section3 |
+[American Food](#American-Food) | [Japanese-Food](#Japanese-Food) | Section3 |
 
-[Drive-Thru](#กrive-Thru) | [AboutUs](#About-us)
+[AboutUs](#About-us)
 
 ## American Food
 
@@ -15,16 +15,17 @@
 | Hot Dogs                 | 20       |
 | Grilled Cheese           | 55       |
 
-## Drive-Thru
+## Japanese Food
 
-| Column 1                 | Column 2 |
-|:-------------------------|----------|
-| Gasohol 91               | 36.28    |
-| Gasohol E20              | 35       |
-| Gasohol E85              | 32       |
+| Menu           | Price |
+|:----------------|-------|
+| Dragon Roll    | 130   |
+| Sashimi Spring | 350   |
+| Saru Ramen     | 175   |
 
 ## About Us
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Zion Keretho | American Food | [@natekrth](https://github.com/natekrth) |
+| Pinpimarn | Japanese Food | [@pinpimarn](https://github.com/pinpimarn) |
