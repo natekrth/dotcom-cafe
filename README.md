@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-[American Food](#American-Food) | [Japanese-Food](#Japanese-Food) |[thai Food](#thai-Food) |  [ChineseFood](#Chinese-Food) | [Italian Food](#Italian-Food)
+[American Food](#American-Food) | [Japanese-Food](#Japanese-Food) |[thai Food](#thai-Food) |  [ChineseFood](#Chinese-Food) | [Italian Food](#Italian-Food) | [Koreanfood](#Koreanfood)
 
 [AboutUs](#About-us)
 
@@ -55,6 +55,18 @@
 | Fette biscottate | 120   |
 | Fiorentina       | 275   |
 
+## Koreanfood
+
+| Menu            | Price |
+|:----------------|----------|
+| Hotteok         | 85   |
+| Eomuk           | 55    |
+| Tteok-bokki     | 150   |
+| Gyeranppang     | 80    |
+| Gimbap          | 160   |
+| Mandu           | 150   |
+
+## About Us
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
@@ -63,3 +75,5 @@
 | Pinpimarn | Japanese Food | [@pinpimarn](https://github.com/pinpimarn) |
 | Pariyakorn Kammarangkura|Chinese Food | [@beambyp](https://github.com/beambyp)|
 | Danita Frikaow | Italian Food | [@dzptahh](https://github.com/dzptahh) |
+| Saranrak Damkul | Korean Food | [@mosssd](https://github.com/mosssd)|
+
