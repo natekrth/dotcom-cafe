@@ -15,5 +15,3 @@
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Pinpimarn | Japanese Food | @pinpimarn |
-
-
