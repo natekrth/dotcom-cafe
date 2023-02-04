@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-[American Food](#American-Food) | [Japanese-Food](#Japanese-Food) |[thai Food](#thai-Food) |  [ChineseFood](#Chinese-Food) | [Italian Food](#Italian-Food) | [Koreanfood](#Koreanfood)
+[American Food](#American-Food) | [Japanese-Food](#Japanese-Food) | [thai Food](#thai-Food) |  [ChineseFood](#Chinese-Food) | [Italian Food](#Italian-Food) | [Koreanfood](#Koreanfood) | [Indian food](#Indian-food)
 
 [AboutUs](#About-us)
 
@@ -66,14 +66,22 @@
 | Gimbap          | 160   |
 | Mandu           | 150   |
 
+## Indian food
+
+| Menu | Price|
+| ---- | ---- |
+| Dosa | 35 |
+| Chicken | 50 |
+| Thali | 60 |
+| Pani puri | 5 |
+| Papri Chaat | 45 |
+
 ## About Us
 
-| Name      | Role      | Github          |
-|:----------|-----------|-----------------|
 | Kawintida Pinthong | Thai Food | [@Formula-Translation](https://github.com/Formula-Translation) |
 | Zion Keretho | American Food | [@natekrth](https://github.com/natekrth) |
 | Pinpimarn | Japanese Food | [@pinpimarn](https://github.com/pinpimarn) |
 | Pariyakorn Kammarangkura|Chinese Food | [@beambyp](https://github.com/beambyp)|
 | Danita Frikaow | Italian Food | [@dzptahh](https://github.com/dzptahh) |
 | Saranrak Damkul | Korean Food | [@mosssd](https://github.com/mosssd)|
-
+| Panyawat Krongkitichu | Indian food | [@KrongPan](https://github.com/KrongPan) |
