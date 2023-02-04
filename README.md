@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-[American Food](#American-Food) | [Japanese-Food](#Japanese-Food) | Section3 |
+[American Food](#American-Food) | [Japanese-Food](#Japanese-Food) |[thai Food](#thai-Food) |
 
 [AboutUs](#About-us)
 
@@ -23,9 +23,21 @@
 | Sashimi Spring | 350   |
 | Saru Ramen     | 175   |
 
+## thai Food
+
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Khoawpad khaidao         | 80       |
+| tomyam kung              | 60       |
+| prakung                  | 70       |
+| kanomjeen nam ya         | 130      |
+| padkrapao                | 120      |
+
+
 ## About Us
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Kawintida Pinthong | Thai Food | [@Formula-Translation](https://github.com/Formula-Translation) |
 | Zion Keretho | American Food | [@natekrth](https://github.com/natekrth) |
 | Pinpimarn | Japanese Food | [@pinpimarn](https://github.com/pinpimarn) |

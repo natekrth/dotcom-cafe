@@ -1,5 +1,15 @@
 # DotCom Cafe Menu
 
+## thai Food
+
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Khoawpad                 | 80       |
+| tomyam kung              | 60       |
+| prakung                  | 70       |
+| kanomjeen                | 130      |
+| bamee nam                | 120      |
+
 ## American Food
 
 | Menu                     | Price    |
