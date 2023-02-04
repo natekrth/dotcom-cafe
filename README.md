@@ -8,7 +8,7 @@
 
 | Menu            | Price |
 |:----------------|----------|
-| Hotteok         | 80    |
+| Hotteok         | 85   |
 | Eomuk           | 55    |
 | Tteok-bokki     | 150   |
 | Gyeranppang     | 80    |
