@@ -6,11 +6,11 @@
 
 | Menu                     | Price    |
 |:-------------------------|----------|
-| Khoawpad                 | 80       |
+| Khoawpad khaidao         | 80       |
 | tomyam kung              | 60       |
 | prakung                  | 70       |
-| kanomjeen                | 130      |
-| bamee nam                | 120      |
+| kanomjeen nam ya         | 130      |
+| padkrapao                | 120      |
 
 
 ## About Us
