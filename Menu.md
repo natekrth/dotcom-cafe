@@ -1,8 +1,4 @@
-# DotCom Cafe
-
-[thai Food](#thai-Food) | [American Food](#American-Food) | Section2 | Section3 |
-
-[thai Food](#thai-Food) | [AboutUs](#About-us)
+# DotCom Cafe Menu
 
 ## thai Food
 
@@ -14,18 +10,23 @@
 | kanomjeen                | 130      |
 | bamee nam                | 120      |
 
+## American Food
 
-## Drive-Thru
-
-| Column 1                 | Column 2 |
+| Menu                     | Price    |
 |:-------------------------|----------|
-| Gasohol 91               | 36.28    |
-| Gasohol E20              | 35       |
-| Gasohol E85              | 32       |
+| Burgers                  | 90       |
+| Apple Pie                | 50       |
+| French Fries             | 65       |
+| Pizza                    | 200      |
+| Hot Dogs                 | 20       |
+| Grilled Cheese           | 55       |
 
+## Japanese Food
 
-## About Us
+| Menu           | Price |
+|:----------------|-------|
+| Dragon Roll    | 130   |
+| Sashimi Spring | 350   |
+| Saru Ramen     | 175   |
 
-| Name      | Role      | Github          |
-|:----------|-----------|-----------------|
-| Kawintida Pinthong | Thai Food | @Formula-Translation |
+We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
