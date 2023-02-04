@@ -1,25 +1,21 @@
-# KU Cafe Menu
+# DotCom Cafe
 
 
-## Breakfast
+[thai Food](#thai-Food) | [AboutUs](#About-us)
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+## thai Food
 
-## Lunch 
-
-
-## Dinner
-
-
-## Night Food
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Khoawpad                 | 80       |
+| tomyam kung              | 60       |
+| prakung                  | 70       |
+| kanomjeen                | 130      |
+| bamee nam                | 120      |
 
 
-## Beverages
+## About Us
 
-
-
----
-
-We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
+| Name      | Role      | Github          |
+|:----------|-----------|-----------------|
+| Kawintida Pinthong | Thai Food | @Formula-Translation |
