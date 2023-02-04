@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-[American Food](#American-Food) | [Japanese-Food](#Japanese-Food) |[thai Food](#thai-Food) |
+[American Food](#American-Food) | [Japanese-Food](#Japanese-Food) |[thai Food](#thai-Food) |  [ChineseFood](#Chinese-Food)
 
 [AboutUs](#About-us)
 
@@ -33,6 +33,17 @@
 | kanomjeen nam ya         | 130      |
 | padkrapao                | 120      |
 
+## Chinese Food
+
+| Menu | Price |
+|------|-------|
+| rice porridge | 50 |
+| dim sum | 70 |
+| Xiao Long Bao | 80 |
+| Peking Duck | 800 |
+| Barbecued Sucking pig | 1000 |
+| Simmered Chicken | 200 |
+
 
 ## About Us
 
@@ -41,3 +52,5 @@
 | Kawintida Pinthong | Thai Food | [@Formula-Translation](https://github.com/Formula-Translation) |
 | Zion Keretho | American Food | [@natekrth](https://github.com/natekrth) |
 | Pinpimarn | Japanese Food | [@pinpimarn](https://github.com/pinpimarn) |
+| Pariyakorn Kammarangkura|Chinese Food | [@beambyp](https://github.com/beambyp)|
+
