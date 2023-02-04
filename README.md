@@ -13,16 +13,8 @@
 | bamee nam                | 120      |
 
 
-## Drive-Thru
-
-| Column 1                 | Column 2 |
-|:-------------------------|----------|
-| Gasohol 91               | 36.28    |
-| Gasohol E20              | 35       |
-| Gasohol E85              | 32       |
-
 ## About Us
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Kawintida Pinthong | Thai Food | @Formula-Translation |
+| Kawintida Pinthong | Thai Food | [@Formula-Translation](https://github.com/Formula-Translation) |
