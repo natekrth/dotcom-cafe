@@ -16,5 +16,5 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Panyawat Krongkitichu | Indian food | @KrongPan |
+| Panyawat Krongkitichu | Indian food | [KrongPan](https://github.com/KrongPan) |
 
