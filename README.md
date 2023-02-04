@@ -1,7 +1,5 @@
 # DotCom Cafe
 
-[thai Food](#thai-Food) | [American Food](#American-Food) | Section2 | Section3 |
-
 [thai Food](#thai-Food) | [AboutUs](#About-us)
 
 ## thai Food
@@ -22,7 +20,6 @@
 | Gasohol 91               | 36.28    |
 | Gasohol E20              | 35       |
 | Gasohol E85              | 32       |
-
 
 ## About Us
 
