@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-[American Food](#American-Food) | [Japanese-Food](#Japanese-Food) |[thai Food](#thai-Food) |  [ChineseFood](#Chinese-Food)
+[American Food](#American-Food) | [Japanese-Food](#Japanese-Food) |[thai Food](#thai-Food) |  [ChineseFood](#Chinese-Food) | [Italian Food](#Italian-Food)
 
 [AboutUs](#About-us)
 
@@ -44,8 +44,17 @@
 | Barbecued Sucking pig | 1000 |
 | Simmered Chicken | 200 |
 
+## Italian Food
 
-## About Us
+| Menu             | Price |
+|:-----------------|-------|
+| Frittata         | 240   |
+| Tiramisu         | 165   |
+| The Minestrone   | 360   |
+| Cornetti         | 220   |
+| Fette biscottate | 120   |
+| Fiorentina       | 275   |
+
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
@@ -53,4 +62,4 @@
 | Zion Keretho | American Food | [@natekrth](https://github.com/natekrth) |
 | Pinpimarn | Japanese Food | [@pinpimarn](https://github.com/pinpimarn) |
 | Pariyakorn Kammarangkura|Chinese Food | [@beambyp](https://github.com/beambyp)|
-
+| Danita Frikaow | Italian Food | [@dzptahh](https://github.com/dzptahh) |
