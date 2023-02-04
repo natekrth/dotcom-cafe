@@ -7,7 +7,7 @@
 |:-----------------|-------|
 | Frittata         | 240   |
 | Tiramisu         | 165   |
-| The Minestrone   | 350   |
+| The Minestrone   | 360   |
 | Cornetti         | 220   |
 | Fette biscottate | 120   |
 | Fiorentina       | 275   |
