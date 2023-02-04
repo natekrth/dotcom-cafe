@@ -6,7 +6,7 @@
 
 | Menu           | Price |
 |----------------|-------|
-| Dragon Roll    | 120   |
+| Dragon Roll    | 130   |
 | Sashimi Spring | 350   |
 | Saru Ramen     | 175   |
 
