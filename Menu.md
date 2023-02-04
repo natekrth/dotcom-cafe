@@ -1,5 +1,6 @@
 # DotCom Cafe
 
+[thai Food](#thai-Food) | [American Food](#American-Food) | Section2 | Section3 |
 
 [thai Food](#thai-Food) | [AboutUs](#About-us)
 
@@ -12,6 +13,15 @@
 | prakung                  | 70       |
 | kanomjeen                | 130      |
 | bamee nam                | 120      |
+
+
+## Drive-Thru
+
+| Column 1                 | Column 2 |
+|:-------------------------|----------|
+| Gasohol 91               | 36.28    |
+| Gasohol E20              | 35       |
+| Gasohol E85              | 32       |
 
 
 ## About Us
