@@ -1,25 +1,13 @@
 # KU Cafe Menu
 
 
-## Breakfast
+## Japansese Food
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
-
-## Lunch 
-
-
-## Dinner
-
-
-## Night Food
-
-
-## Beverages
-
-
-
+    | Menu           | Price |
+    |----------------|-------|
+    | Dragon Roll    | 120   |
+    | Sashimi Spring | 350   |
+    | Saru Ramen     | 175   |
 ---
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
